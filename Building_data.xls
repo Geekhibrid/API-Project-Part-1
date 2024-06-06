@@ -1,0 +1,98 @@
+Department,Product,Price,ProductAdj,State,ID
+Toys,Fish,347,Gorgeous,Arkansas,1
+Electronics,Towels,188,Small,Texas,2
+Home,Hat,975,Recycled,Montana,3
+Electronics,Car,900,Tasty,Utah,4
+Kids,Bacon,982,Sleek,Utah,5
+Jewelery,Car,227,Elegant,Missouri,6
+Home,Hat,839,Ergonomic,Pennsylvania,7
+Music,Gloves,352,Ergonomic,Arkansas,8
+Home,Hat,94,Oriental,Alaska,9
+Movies,Fish,354,Generic,Colorado,10
+Games,Tuna,113,Licensed,Delaware,11
+Sports,Computer,923,Incredible,Rhode Island,12
+Books,Hat,781,Modern,Ohio,13
+Electronics,Cheese,237,Small,Tennessee,14
+Games,Chair,211,Unbranded,Nebraska,15
+Garden,Bike,490,Ergonomic,Mississippi,16
+Electronics,Keyboard,859,Modern,Minnesota,17
+Tools,Bike,515,Bespoke,Virginia,18
+Tools,Mouse,739,Oriental,South Dakota,19
+Beauty,Hat,203,Small,North Carolina,20
+Books,Chips,684,Rustic,Utah,21
+Outdoors,Car,347,Fantastic,New Mexico,22
+Automotive,Fish,846,Modern,Colorado,23
+Tools,Computer,913,Licensed,Alabama,24
+Tools,Mouse,483,Fantastic,Iowa,25
+Books,Bike,371,Sleek,Alabama,26
+Baby,Computer,701,Small,Mississippi,27
+Industrial,Bacon,82,Electronic,Kansas,28
+Jewelery,Fish,406,Recycled,Ohio,29
+Automotive,Chicken,141,Fantastic,Texas,30
+Home,Chips,356,Licensed,Washington,31
+Shoes,Ball,494,Rustic,Vermont,32
+Clothing,Salad,188,Modern,Maine,33
+Movies,Mouse,804,Handmade,Alaska,34
+Home,Sausages,358,Incredible,Oregon,35
+Jewelery,Ball,911,Elegant,Washington,36
+Shoes,Pizza,764,Fantastic,Oklahoma,37
+Health,Soap,273,Refined,New York,38
+Beauty,Ball,226,Gorgeous,Mississippi,39
+Shoes,Fish,621,Generic,Ohio,40
+Baby,Soap,472,Modern,West Virginia,41
+Outdoors,Soap,675,Tasty,Washington,42
+Industrial,Ball,668,Licensed,Washington,43
+Toys,Soap,730,Bespoke,Idaho,44
+Industrial,Chair,337,Gorgeous,West Virginia,45
+Sports,Car,457,Handcrafted,Nevada,46
+Toys,Shirt,745,Refined,North Carolina,47
+Sports,Fish,186,Refined,Tennessee,48
+Kids,Gloves,812,Sleek,Alaska,49
+Industrial,Tuna,621,Recycled,Rhode Island,50
+Books,Shoes,442,Tasty,Kansas,51
+Grocery,Towels,192,Tasty,Alaska,52
+Tools,Pizza,622,Modern,Pennsylvania,53
+Electronics,Pants,102,Awesome,Texas,54
+Games,Pants,981,Intelligent,Idaho,55
+Outdoors,Mouse,56,Oriental,Michigan,56
+Kids,Hat,495,Small,Utah,57
+Garden,Fish,91,Incredible,Michigan,58
+Clothing,Shoes,757,Ergonomic,North Dakota,59
+Garden,Chicken,150,Ergonomic,Oregon,60
+Shoes,Shoes,428,Awesome,Connecticut,61
+Grocery,Fish,190,Rustic,Indiana,62
+Grocery,Car,16,Refined,Oregon,63
+Industrial,Bike,802,Electronic,Kentucky,64
+Games,Bike,662,Refined,Virginia,65
+Industrial,Gloves,729,Tasty,Hawaii,66
+Clothing,Sausages,678,Licensed,New Jersey,67
+Music,Soap,363,Bespoke,Connecticut,68
+Kids,Chair,95,Ergonomic,Montana,69
+Jewelery,Shirt,795,Incredible,Rhode Island,70
+Health,Towels,216,Practical,Minnesota,71
+Jewelery,Tuna,238,Licensed,Georgia,72
+Books,Keyboard,973,Incredible,Massachusetts,73
+Beauty,Sausages,177,Electronic,Delaware,74
+Garden,Towels,184,Handmade,Idaho,75
+Jewelery,Sausages,759,Refined,North Carolina,76
+Books,Pizza,62,Refined,Iowa,77
+Toys,Gloves,987,Sleek,Nevada,78
+Automotive,Shoes,282,Handmade,Nebraska,79
+Garden,Chicken,311,Licensed,New Mexico,80
+Books,Shirt,574,Sleek,Rhode Island,81
+Sports,Chips,767,Intelligent,Iowa,82
+Garden,Chicken,993,Handcrafted,North Dakota,83
+Music,Bike,716,Refined,Montana,84
+Garden,Shirt,946,Handcrafted,Wyoming,85
+Outdoors,Table,102,Tasty,Alabama,86
+Sports,Hat,294,Small,New Hampshire,87
+Shoes,Soap,407,Gorgeous,Wisconsin,88
+Tools,Chips,769,Bespoke,California,89
+Tools,Bacon,702,Modern,Oregon,90
+Computers,Table,164,Licensed,Mississippi,91
+Electronics,Chips,703,Bespoke,Indiana,92
+Automotive,Keyboard,471,Gorgeous,New Jersey,93
+Industrial,Keyboard,735,Unbranded,Florida,94
+Outdoors,Car,733,Refined,Ohio,95
+Sports,Bike,599,Practical,Indiana,96
+Shoes,Sausages,326,Gorgeous,Vermont,97
